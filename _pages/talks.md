@@ -6,19 +6,19 @@ author_profile: true
 ---
 
 __AOGS2022 Best Student Poser Award__
-<br/><img src='/files/AOGS_best_student_poster.png' width=500>"
+<br/><img src='/files/AOGS_best_student_poster.png' width=500>
 
 
 __EGU2023__
-<br/><img src='/files/EGU23.png' width=500>"
+<br/><img src='/files/EGU23.png' width=500>
 
 
 __ISSI team__
-<br/><img src='/files/issiteam.png' width=500>"
+<br/><img src='/files/issiteam.png' width=500>
 
 
 __Solar wind meeting__
-<br/><img src='/files/solarwind16.png' width=500>"
+<br/><img src='/files/solarwind16.png' width=500>
 
 and
 
