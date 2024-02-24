@@ -11,7 +11,7 @@ Education
 
   &nbsp; __Visiting PhD student__, IRAP, Toulouse, France in Space Physics
   
-  &nbsp; __supervisor__: Prof. Alexis Rouillard and Prof. Jiansen He
+  &nbsp; __Supervisor__: Prof. Alexis Rouillard and Prof. Jiansen He
   
   &nbsp; Research field: Origin and evolution of Alfvénic switchbacks.
   
@@ -19,7 +19,7 @@ Education
 
   &nbsp; __PhD student__, Peking University in Space Physics
   
-  &nbsp; __supervisor__: Prof. Jiansen He
+  &nbsp; __Supervisor__: Prof. Jiansen He
   
   &nbsp; Research field: Dynamics of the solar atmosphere, Evolution of solar wind, Magnetic connectivity, Waves and turbulence in space plasma.
 
