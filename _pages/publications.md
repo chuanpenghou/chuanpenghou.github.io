@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+__C. Hou__, J. He, D. Duan, et al. "Evidence that Interplanetary Switchbacks Come from Solar Jets Rooted at Chromospheric Network Boundaries" _under review_ (2023)
+
+__C. Hou__, Alexis Rouillard, J. He, et al. "Connecting Solar Wind Velocity Spikes Measured by Solar Orbiter \\and Coronal Brightenings Observed by SDO" _under review_ (2023)
 
 __C. Hou__, X. Zhu, R. Zhuo, J. He, D. Verscharen, and D. Duan, “Nature, generation, and dissipation of alfvénic kinks/switchbacks observed by parker solar probe and wind”, The Astrophysical Journal 950, 157 (2023). 
 
