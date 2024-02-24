@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV of Chuanpeng Hou"
 permalink: /cv/
 author_profile: true
 ---
