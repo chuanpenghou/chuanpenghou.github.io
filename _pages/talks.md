@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-__AOGS2022 Best Student Poser Award__
+__AOGS2022 Best Student Poster Award__
 <br/><img src='/files/AOGS_best_student_poster.png' width=500>
 
 
