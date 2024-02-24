@@ -5,6 +5,21 @@ permalink: /talks/
 author_profile: true
 ---
 
+__AOGS Best Student Poser Award__
+<br/><img src='/files/AOGS_best_student_poster.png' width=300>"
+
+__EGU2023__
+
+<br/><img src='/files/EGU23.png' width=300>"
+
+__ISSI team__
+
+<br/><img src='/files/issiteam.png' width=300>"
+
+__Solar wind meeting__
+
+<br/><img src='/files/solarwind16.png' width=400>"
+
 1. __C. Hou__, A. Rouillard, J. He, B. Gannouni, and V. Réville, “Jet-flow fluctuations and plasma blobs as a
 mediator between interchange mangetic reconnection in solar corona and alfvénic velocity spikes in
 interplanetary space”, in Asia oceania geosciences society (__AOGS__) (2023).
