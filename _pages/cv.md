@@ -12,53 +12,35 @@ redirect_from:
 
 Education
 ======
+* **2019 – present**
+
+  &nbsp; __PhD student__, Peking University in Space Physics
+  
+  &nbsp; Research field: Dynamics of the solar atmosphere, Evolution of solar wind, Magnetic connectivity, Waves and turbulence in space plasma.
 
 * **2022/11 – 2024/01**
 
-  Visiting PhD student, IRAP, Toulouse, France in Space Physics
+  &nbsp; __Visiting PhD student__, IRAP, Toulouse, France in Space Physics
 
-  Research field: Origin and evolution of Alfvénic switchbacks.
+  &nbsp; Research field: Origin and evolution of Alfvénic switchbacks.
   
-* **2019 – present**
-
-  PhD student, Peking University in Space Physics
-  
-  Research field: Dynamics of the solar atmosphere, Evolution of solar wind, Magnetic connectivity, Waves and turbulence in space plasma.
 
 * **2019**
-   Bachelor’s degree, Peking University in Space Physics
 
-  Thesis title: Dynamics of the charged particles from the Sun-grazing comet tail in the corona.
+  &nbsp; __Bachelor’s degree__, Peking University in Space Physics
+
+  &nbsp; Thesis title: Dynamics of the charged particles from the Sun-grazing comet tail in the corona.
 
 * **2015 – 2019**
 
-  Undergraduate, Peking University in Space Physic
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  &nbsp; __Undergraduate__, Peking University in Space Physic
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* __Coding__: &nbsp; Python, MATLAB, fortran, idl
+* __Language__: &nbsp;  Mandarin Chinese, English
+* __Knowledge__: &nbsp;  Solar physics, Plasma physics, Heliosphere physics, MHD simulation
+* __Hobbies__: &nbsp;  Baseball, Softball, Cricket
 
 Publications
 ======
