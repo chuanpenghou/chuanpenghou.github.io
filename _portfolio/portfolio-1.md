@@ -1,6 +1,6 @@
 ---
-title: "The relationship between switchbacks and solar jets"
-excerpt: "The relationship between solar jets and switchback clusters.<br/><img src='/files/switchback_and_solar_jets.png' width=300>"
+title: "Evidence that Interplanetary Switchbacks Come from Solar Jets Rooted at Chromospheric Network Boundaries"
+excerpt: "<br/><img src='/files/switchback_and_solar_jets.png' width=300>"
 collection: research
 ---
 
