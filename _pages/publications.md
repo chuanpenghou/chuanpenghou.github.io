@@ -18,7 +18,7 @@ author_profile: true
 
 7. L. Yang, __C. Hou__, X. Feng, J. He, M. Xiong, M. Zhang, Y. Zhou, F. Shen, X. Zhao, H. Li, et al., “Global morphology distortion of the 2021 october 9 coronal mass ejection from an ellipsoid to a concave shape”, The Astrophysical Journal 942, 65 (2023). 
 
-8. Y. Sun†, J. Zhao†,__C. Hou__†, and W. Jiao, “Highlight advances in planetary physics in the solar system: in situ detection over the past 20 years”, Space: Science & Technology 3, 0007 (2023). 
+8. Y. Sun†, J. Zhao†, __C. Hou__†, and W. Jiao, “Highlight advances in planetary physics in the solar system: in situ detection over the past 20 years”, Space: Science & Technology 3, 0007 (2023). 
 
 9. J. He, X. Zhu, Q. Luo, __C. Hou__, D. Verscharen, D. Duan, W. Li, J. Zhao, T. Wang, D. B. Graham, et al., “Observations of rapidly growing whistler waves in front of space plasma shock due to resonance interaction between fluctuating electron velocity distributions and electromagnetic fields”, The Astrophysical Journal 941, 147 (2022). 
 
