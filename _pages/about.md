@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Space Plasma Physics at [Peking University](https://www.pku.edu.cn/). 
+I am a PhD Student in Space Physics at [Peking University](https://www.pku.edu.cn/). 
 
 I study the physics of the solar atmosphere and solar wind mainly through analyzing multiple spacecraft observations and some numerical simulations. This research is of great importance for our understanding of solar systems. 
 
