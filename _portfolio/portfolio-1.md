@@ -1,6 +1,6 @@
 ---
 title: "The relationship between switchbacks and solar jets"
-excerpt: "The relationship between solar jets and switchback clusters.<br/><img src='/files/switchback_and_solar_jets.png'>"
+excerpt: "The relationship between solar jets and switchback clusters.<br/><img src='/files/switchback_and_solar_jets.png' tt>"
 collection: research
 ---
 
