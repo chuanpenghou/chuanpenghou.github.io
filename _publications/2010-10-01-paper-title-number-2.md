@@ -1,4 +1,3 @@
----
 
 citation: 'C. Hou, X. Zhu, R. Zhuo, J. He, D. Verscharen, and D. Duan, “Nature, generation, and dissipation of
 alfvénic kinks/switchbacks observed by parker solar probe and wind”, The Astrophysical Journal 950,
@@ -30,4 +29,3 @@ wind”, The Astrophysical Journal 951, 98 (2023).
 et al., “Detecting the oscillation and propagation of the nascent dynamic solar wind structure at 2.6
 solar radii using very long baseline interferometry radio telescopes”, The Astrophysical Journal Letters
 940, L32 (2022).'
----
