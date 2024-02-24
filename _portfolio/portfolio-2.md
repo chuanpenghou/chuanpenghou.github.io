@@ -1,6 +1,6 @@
 ---
 title: "Nature, generation, and dissipation of Alfvénic kinks/switchbacks "
-excerpt: "Nature, generation, and dissipation of alfvénic kinks/switchbacks observed by parker solar probe and wind<br/><img src='/files/dissipation_of_kinks.png' width=300>"
+excerpt: "<br/><img src='/files/dissipation_of_kinks.png' width=300>"
 collection: research
 ---
 
