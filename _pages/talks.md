@@ -13,7 +13,7 @@ __EGU2023__
 <br/><img src='/files/EGU23.png' width=500>
 
 
-__ISSI team__
+__ISSI team meeting__
 <br/><img src='/files/issiteam.png' width=500>
 
 
