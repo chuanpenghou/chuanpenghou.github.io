@@ -1,6 +1,6 @@
 ---
 title: "Solar Wind Velocity Spikes and Coronal Brightenings"
-excerpt: "Connecting Solar Wind Velocity Spikes Measured by Solar Orbiter \\and Coronal Brightenings Observed by SDO<br/><img src='/files/spikes_and_CBPs.png' width=300>"
+excerpt: "Connecting Solar Wind Velocity Spikes Measured by Solar Orbiter and Coronal Brightenings Observed by SDO<br/><img src='/files/spikes_and_CBPs.png' width=300>"
 collection: research
 ---
 
