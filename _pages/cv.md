@@ -12,21 +12,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
 * **2022/11 – 2024/01**
 
   Visiting PhD student, IRAP, Toulouse, France in Space Physics
-                    Research field: Origin and evolution of Alfvénic switchbacks.
+
+  Research field: Origin and evolution of Alfvénic switchbacks.
   
 * **2019 – present**
 
   PhD student, Peking University in Space Physics
-                    Research field: Dynamics of the solar atmosphere, Evolution of solar wind, Magnetic connectivity, Waves and turbulence in space plasma.
-* **2019**              Bachelor’s degree, Peking University in Space Physics
-                    Thesis title: Dynamics of the charged particles from the Sun-grazing comet tail in the corona.
-* **2015 – 2019**       Undergraduate, Peking University in Space Physic
+  
+  Research field: Dynamics of the solar atmosphere, Evolution of solar wind, Magnetic connectivity, Waves and turbulence in space plasma.
+
+* **2019**
+   Bachelor’s degree, Peking University in Space Physics
+
+  Thesis title: Dynamics of the charged particles from the Sun-grazing comet tail in the corona.
+
+* **2015 – 2019**
+
+  Undergraduate, Peking University in Space Physic
 
 Work experience
 ======
