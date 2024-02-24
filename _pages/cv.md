@@ -31,11 +31,11 @@ Education
 
 * **2015 – 2019**
 
-  &nbsp; __Undergraduate__, Peking University in Space Physic
+  &nbsp; __Undergraduate__, Peking University in Space Physics
   
 Skills
 ======
-* __Coding__: &nbsp; Python, MATLAB, fortran, idl
+* __Coding__: &nbsp; Python, MATLAB, Fortran, IDL
 * __Language__: &nbsp;  Mandarin Chinese, English
 * __Knowledge__: &nbsp;  Solar physics, Plasma physics, Heliosphere physics, MHD simulation
 * __Hobbies__: &nbsp;  Baseball, Softball, Cricket
