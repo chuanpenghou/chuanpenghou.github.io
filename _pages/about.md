@@ -1,4 +1,11 @@
-Welcome to my personal homepage!
+---
+permalink: /
+title: "Welcome to my personal homepage!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a PhD Student in Space Plasma Physics at [Peking University](https://www.pku.edu.cn/). 
 
