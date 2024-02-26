@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Space Physics at [Peking University](https://www.pku.edu.cn/). 
+I am a PhD Student in Space Physics at [Peking University](https://www.pku.edu.cn/).
+
+You can find my CV here: [Chuanpeng's Curriculum Vitae.](https://github.com/chuanpenghou/chuanpenghou.github.io/blob/master/files/Chuanpeng_s_CV.pdf)
+
 
 Research Interests
 ---
