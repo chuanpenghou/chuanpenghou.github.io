@@ -46,7 +46,7 @@ Awards and Scholarships
 ======
 * __Awards__
   * Best Student Paper Awards, Chinese Geoscience Union (CGU), 2022
-  * Best Best Student Poster Awards, Asia Oceania Geosciences Society (AOGS), 2022
+  * Best Student Poster Awards, Asia Oceania Geosciences Society (AOGS), 2022
   * Graduate Award for Scientific Research, Peking University, 2021
 
 * __Scholarships__
