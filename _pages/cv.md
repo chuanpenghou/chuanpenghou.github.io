@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 ---
 
+[Download this CV](https://github.com/chuanpenghou/chuanpenghou.github.io/edit/master/_pages/cv.md)
+
 Education
 ======
 * **2022/11 – 2024/01**
@@ -39,6 +41,17 @@ Skills
 * __Language__: &nbsp;  Mandarin Chinese, English
 * __Knowledge__: &nbsp;  Solar physics, Plasma physics, Heliosphere physics, MHD simulation
 * __Hobbies__: &nbsp;  Baseball, Softball, Cricket
+
+Awards and Scholarships
+======
+* __Awards__
+  * Best Student Paper Awards, Chinese Geoscience Union (CGU), 2022
+  * Best Best Student Poster Awards, Asia Oceania Geosciences Society (AOGS), 2022
+  * Graduate Award for Scientific Research, Peking University, 2021
+
+* __Scholarships__
+  * Peking University President's Scholarship, Peking University, 2023
+  * China Scholarship Council (CSC) Scholarship, China Scholarship Council, 2022
 
 Publications
 ======
