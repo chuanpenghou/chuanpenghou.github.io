@@ -8,6 +8,8 @@ author_profile: true
 __AOGS2022 Best Student Poster Award__
 <br/><img src='/files/AOGS_best_student_poster.png' width=500>
 
+__CGU2022 Best Student Paper Award__
+<br/><img src='/files/CGU_best_student_paper.png' width=500>
 
 __EGU2023__
 <br/><img src='/files/EGU23.png' width=500>
