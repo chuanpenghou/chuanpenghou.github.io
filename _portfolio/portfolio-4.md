@@ -1,6 +1,6 @@
 ---
 title: "The Encounter of the Parker Solar Probe and a Comet-like Object Near the Sun: Model Predictions and Measurements"
-excerpt: "<br/><img src='/files/psp_and_322p.png' width=300>"
+excerpt: "<br/><img src='/files/psp_and_322P.png' width=300>"
 collection: research
 ---
 
@@ -8,4 +8,4 @@ The Parker Solar Probe (PSP) aims to explore the nascent solar wind close to the
 
 J. He, B. Cui, L. Yang, __C. Hou__, L. Zhang, W.-H. Ip et al., “The encounter of the parker solar probe and a comet-like object near the sun: model predictions and measurements”, [The Astrophysical Journal 910, 7 (2021).](https://iopscience.iop.org/article/10.3847/1538-4357/abdf4a/meta) 
 
-<br/><img src='/files/psp_and_322p.png' width=500>
+<br/><img src='/files/psp_and_322P.png' width=500>
