@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV of Chuanpeng Hou"
-permalink: /
+permalink: /cv/
 author_profile: true
 ---
 
