@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download this CV](https://github.com/chuanpenghou/chuanpenghou.github.io/blob/master/files/Chuanpeng_s_CV.pdf)
+<a href="Chuanpeng_CV.pdf">Download this CV</a>
 
 Education
 ======
