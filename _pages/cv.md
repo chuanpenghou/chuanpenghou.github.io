@@ -51,7 +51,6 @@ Awards and Scholarships
 
 * __Scholarships__
   * Peking University President's Scholarship, Peking University, 2023
-  * China Scholarship Council (CSC) Scholarship, China Scholarship Council, 2022
 
 Publications
 ======
