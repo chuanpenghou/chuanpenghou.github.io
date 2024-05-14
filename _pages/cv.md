@@ -54,7 +54,7 @@ Awards and Scholarships
 
 Publications
 ======
-1. __C. Hou__, J. He, D. Duan, et al. "Evidence that Interplanetary Switchbacks Come from Solar Jets Rooted at Chromospheric Network Boundaries" _under review_ (2024)
+1. __C. Hou__, J. He, D. Duan, et al. "Evidence that Interplanetary Switchbacks Come from Solar Jets Rooted at Chromospheric Network Boundaries" accepted_ (2024)
 
 2. __C. Hou__, Alexis Rouillard, J. He, et al. "Connecting Solar Wind Velocity Spikes Measured by Solar Orbiter and Coronal Brightenings Observed by SDO" _under review_ (2024)
 
