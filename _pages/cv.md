@@ -9,6 +9,10 @@ author_profile: true
 
 Education
 ======
+* **2024**
+
+  &nbsp; __PhD degree__, Peking University in Space Physics
+
 * **2022/11 – 2024/01**
 
   &nbsp; __Visiting PhD student__, IRAP, Toulouse, France in Space Physics
@@ -16,8 +20,9 @@ Education
   &nbsp; __Supervisor__: Prof. Alexis Rouillard and Prof. Jiansen He
   
   &nbsp; Research field: Origin and evolution of Alfvénic switchbacks.
+
   
-* **2019 – present**
+* **2019/09 – 2024/07**
 
   &nbsp; __PhD student__, Peking University in Space Physics
   
@@ -29,9 +34,8 @@ Education
 
   &nbsp; __Bachelor’s degree__, Peking University in Space Physics
 
-  &nbsp; Thesis title: Dynamics of the charged particles from the Sun-grazing comet tail in the corona.
 
-* **2015 – 2019**
+* **2015/09 – 2019/07**
 
   &nbsp; __Undergraduate__, Peking University in Space Physics
   
