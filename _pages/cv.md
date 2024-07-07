@@ -9,7 +9,7 @@ author_profile: true
 
 Education
 ======
-* **2024**
+* **2024/07**
 
   &nbsp; __PhD degree__, Peking University in Space Physics
 
@@ -30,7 +30,7 @@ Education
   
   &nbsp; Research field: Dynamics of the solar atmosphere, Evolution of solar wind, Magnetic connectivity, Waves and turbulence in space plasma.
 
-* **2019**
+* **2019/07**
 
   &nbsp; __Bachelor’s degree__, Peking University in Space Physics
 
