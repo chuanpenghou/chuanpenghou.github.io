@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in Space Physics at [Peking University](https://www.pku.edu.cn/).
+I obtained my PhD degree in Space Physics at [Peking University](https://www.pku.edu.cn/).
 
 You can find my CV here: <a href="Chuanpeng_CV.pdf">Chuanpeng's Curriculum Vitae</a>
 
