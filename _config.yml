@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Chuanpeng Hou / PhD student"
+title                    : "Chuanpeng Hou / PhD"
 title_separator          : "-"
 name                     : &name "Chuanpeng Hou"
 description              : &description "PhD student in space physics"
