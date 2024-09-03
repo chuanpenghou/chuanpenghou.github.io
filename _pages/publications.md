@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. __C. Hou__, J. He, D. Duan, et al. "Solar Jets Rooted at Chromospheric Network Boundaries as Source Indicators of Interplanetary Switchback" Nature Astronomy, _accepted_ (2024)
+1. __C. Hou__, J. He, D. Duan, et al. "The origin of interplanetary switchbacks in reconnection at chromospheric network boundaries" [Nature Astronomy, (2024).](https://www.nature.com/articles/s41550-024-02321-9)
 
 2. __C. Hou__, Alexis Rouillard, J. He, et al. "Connecting Solar Wind Velocity Spikes Measured by Solar Orbiter and Coronal Brightenings Observed by SDO", [The Astrophysical Journal
 Letters 968, L28 (2024).](https://iopscience.iop.org/article/10.3847/2041-8213/ad4eda)
