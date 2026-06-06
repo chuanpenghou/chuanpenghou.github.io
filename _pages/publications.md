@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. __C. Hou__, H. Yan, and S. Zhao. "Compressible turbulence as a source of particle beams and ion bernstein waves in collisionless plasmas", [The Astrophysical Journal 1004, 64 (2026)](https://iopscience.iop.org/article/10.3847/1538-4357/ae6f0a/meta)
+1. __C. Hou__, H. Yan, and S. Zhao. "Compressible turbulence as a source of particle beams and ion bernstein waves in collisionless plasmas", [The Astrophysical Journal 1004, 64 (2026)](https://iopscience.iop.org/article/10.3847/1538-4357/ae6f0a/meta).
    
 2. __C. Hou__, H. Yan, S. Zhao, and P. Pavaskar. "Energy Cascade and Damping in Fast-mode Compressible Turbulence" [The Astrophysical Journal Letters, 992, L28, (2025).](https://iopscience.iop.org/article/10.3847/2041-8213/ae0c97/meta)
 
