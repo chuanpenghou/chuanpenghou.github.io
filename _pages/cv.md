@@ -11,33 +11,16 @@ Education
 ======
 * **2024/07**
 
-  &nbsp; __PhD degree__, Peking University in Space Physics
+  &nbsp; __PhD degree__, Peking University
 
 * **2022/11 – 2024/01**
 
-  &nbsp; __Visiting PhD student__, IRAP, Toulouse, France in Space Physics
+  &nbsp; __Visiting PhD student__, IRAP, Toulouse, France
   
-  &nbsp; __Supervisor__: Prof. Alexis Rouillard and Prof. Jiansen He
-  
-  &nbsp; Research field: Origin and evolution of Alfvénic switchbacks.
-
-  
-* **2019/09 – 2024/07**
-
-  &nbsp; __PhD student__, Peking University in Space Physics
-  
-  &nbsp; __Supervisor__: Prof. Jiansen He
-  
-  &nbsp; Research field: Dynamics of the solar atmosphere, Evolution of solar wind, Magnetic connectivity, Waves and turbulence in space plasma.
-
 * **2019/07**
 
-  &nbsp; __Bachelor’s degree__, Peking University in Space Physics
+  &nbsp; __Bachelor’s degree__, Peking University
 
-
-* **2015/09 – 2019/07**
-
-  &nbsp; __Undergraduate__, Peking University in Space Physics
   
 Awards and Scholarships
 ======
