@@ -4,22 +4,23 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. __C. Hou__, J. He, A. Rouillard, et al. "Non-adiabatic entropy increase in the solar wind governed by velocity spikes", [Nature Astronomy, 1–11 (2026)](https://www.nature.com/articles/s41550-026-02923-5)
 
-1. __C. Hou__, H. Yan, and S. Zhao. "Compressible turbulence as a source of particle beams and ion bernstein waves in collisionless plasmas", [The Astrophysical Journal 1004, 64 (2026)](https://iopscience.iop.org/article/10.3847/1538-4357/ae6f0a/meta).
+2. __C. Hou__, H. Yan, and S. Zhao. "Compressible turbulence as a source of particle beams and ion bernstein waves in collisionless plasmas", [The Astrophysical Journal 1004, 64 (2026)](https://iopscience.iop.org/article/10.3847/1538-4357/ae6f0a/meta).
    
-2. __C. Hou__, H. Yan, S. Zhao, and P. Pavaskar. "Energy Cascade and Damping in Fast-mode Compressible Turbulence" [The Astrophysical Journal Letters, 992, L28, (2025).](https://iopscience.iop.org/article/10.3847/2041-8213/ae0c97/meta)
+3. __C. Hou__, H. Yan, S. Zhao, and P. Pavaskar. "Energy Cascade and Damping in Fast-mode Compressible Turbulence" [The Astrophysical Journal Letters, 992, L28, (2025).](https://iopscience.iop.org/article/10.3847/2041-8213/ae0c97/meta)
 
-3. __C. Hou__, B. Gannouni, A. Rouillard, J. He, and V. Réville. "Fine-scale activity driven by magnetic reconnection within coronal microjets" [Astronomy & Astrophysics, 697, A67, (2025).](https://www.aanda.org/articles/aa/pdf/forth/aa53237-24.pdf)
+4. __C. Hou__, B. Gannouni, A. Rouillard, J. He, and V. Réville. "Fine-scale activity driven by magnetic reconnection within coronal microjets" [Astronomy & Astrophysics, 697, A67, (2025).](https://www.aanda.org/articles/aa/pdf/forth/aa53237-24.pdf)
 
-4. __C. Hou__, J. He, D. Duan, et al. "The origin of interplanetary switchbacks in reconnection at chromospheric network boundaries" [Nature Astronomy, (2024).](https://www.nature.com/articles/s41550-024-02321-9)
+5. __C. Hou__, J. He, D. Duan, et al. "The origin of interplanetary switchbacks in reconnection at chromospheric network boundaries" [Nature Astronomy, (2024).](https://www.nature.com/articles/s41550-024-02321-9)
 
-5. __C. Hou__, A. Rouillard, J. He, et al. "Connecting Solar Wind Velocity Spikes Measured by Solar Orbiter and Coronal Brightenings Observed by SDO", [The Astrophysical Journal
+6. __C. Hou__, A. Rouillard, J. He, et al. "Connecting Solar Wind Velocity Spikes Measured by Solar Orbiter and Coronal Brightenings Observed by SDO", [The Astrophysical Journal
 Letters 968, L28 (2024).](https://iopscience.iop.org/article/10.3847/2041-8213/ad4eda)
 
-6. __C. Hou__, X. Zhu, R. Zhuo, J. He, D. Verscharen, and D. Duan, “Nature, generation, and dissipation of alfvénic kinks/switchbacks observed by parker solar probe and wind”, [The Astrophysical Journal 950, 157 (2023).](https://iopscience.iop.org/article/10.3847/1538-4357/accf94/meta)
+7. __C. Hou__, X. Zhu, R. Zhuo, J. He, D. Verscharen, and D. Duan, “Nature, generation, and dissipation of alfvénic kinks/switchbacks observed by parker solar probe and wind”, [The Astrophysical Journal 950, 157 (2023).](https://iopscience.iop.org/article/10.3847/1538-4357/accf94/meta)
 
-7. __C. Hou__, J. He, D. Duan, X. Zhu, W. Li, D. Verscharen, T. Liu, and T. Wang, “Efficient energy conversion through vortex arrays in the turbulent magnetosheath”, [The Astrophysical Journal 946, 13 (2023).](https://iopscience.iop.org/article/10.3847/1538-4357/acb927/meta)
+8. __C. Hou__, J. He, D. Duan, X. Zhu, W. Li, D. Verscharen, T. Liu, and T. Wang, “Efficient energy conversion through vortex arrays in the turbulent magnetosheath”, [The Astrophysical Journal 946, 13 (2023).](https://iopscience.iop.org/article/10.3847/1538-4357/acb927/meta)
 
-8. __C. Hou__, J. He, X. Zhu, and Y. Wang, “Contribution of magnetic reconnection events to energy dissipation in space plasma turbulence”, [The Astrophysical Journal 908, 237 (2021)](https://iopscience.iop.org/article/10.3847/1538-4357/abd6f3/meta).
+9. __C. Hou__, J. He, X. Zhu, and Y. Wang, “Contribution of magnetic reconnection events to energy dissipation in space plasma turbulence”, [The Astrophysical Journal 908, 237 (2021)](https://iopscience.iop.org/article/10.3847/1538-4357/abd6f3/meta).
 
-9. __C. Hou__, J. He, L. Zhang, Y. Wang, and D. Duan, “Dynamics of the charged particles released from a sun-grazing comet in the solar corona”, [Earth and Planetary Physics 5, 232–238 (2021).](https://agupubs.onlinelibrary.wiley.com/doi/full/10.26464/epp2021023) 
+10. __C. Hou__, J. He, L. Zhang, Y. Wang, and D. Duan, “Dynamics of the charged particles released from a sun-grazing comet in the solar corona”, [Earth and Planetary Physics 5, 232–238 (2021).](https://agupubs.onlinelibrary.wiley.com/doi/full/10.26464/epp2021023) 
